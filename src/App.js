@@ -170,6 +170,9 @@ const App = () => {
           <p className="sub-text">
             Each unique. Each beautiful. Discover your NFT today.
           </p>
+          <p>
+            Make sure to connect using the Rinkeby Network 😏
+          </p>
           <p className="gradient-text">
             {`${lastIdMinted}/${totalAmountToBeMinted} NFTs minted so far`}
           </p>
